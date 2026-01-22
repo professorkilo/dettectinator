@@ -1,0 +1,9 @@
+Process Creation,Windows Event Logs
+Process Creation,MDE DeviceProcessEvents
+Process Termination,Windows Event Logs
+Network Traffic Content,Proxy Logs
+Scheduled Job Creation,Windows Event Logs
+Module Load,EDR
+Windows Registry Key Creation,EDR
+Application Log Content,EDR
+Container Creation,EDR
